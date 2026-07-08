@@ -25,4 +25,4 @@ UCI SECOM 데이터셋을 활용해 591개 공정 센서 중 불량(Fail)에 영
 pip install -r requirements.txt
 
 ## 원본 테스트 데이터 출처 
-https://www.kaggle.com/datasets/paresh2047/uci-semcom/data
+https://www.kaggle.com/datasets/paresh2047/uci-semcom
